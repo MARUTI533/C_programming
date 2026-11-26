@@ -7,7 +7,7 @@ build for logic.
 
 
 
-\## Topics
+ # Topics
 
 \- Basic Programs
 
@@ -19,13 +19,13 @@ build for logic.
 
 
 
-\## Language
+ # Language
 
 \- C
 
 
 
-\## Author
+ # Author
 
 Maruti Kondiba Waghmode
 
